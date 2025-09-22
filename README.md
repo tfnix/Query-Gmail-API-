@@ -4,7 +4,7 @@ _Gmail querying - WIP_
 ```bash 
 $ python3 gmailr.py facebookmail.com
 ```
-*Miss my sociasl!... ;. /*
+*Miss my socials!... ;. /*
 ```bash
 Fetching emails from 'facebookmail.com'.....
 {
