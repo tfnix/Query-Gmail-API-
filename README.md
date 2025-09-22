@@ -39,6 +39,35 @@ Fetching emails from 'facebookmail.com'.....
 
 
 ```
+```bash 
+$ python3 gmailr.py google.com
+```
+*So bad!!!*
+```bash
+Fetching emails from 'google.com'.....
+{
+    "query": "from:google.com",
+    "email_count": 200,
+    "emails": [
+        {
+            "from": "\"Google+ Team\" <noreply@plus.google.com>",
+            "subject": "Faça o download das suas fotos e dos eventos salvos do Google+ antes de abril de 2019",
+            "date": "Sun, 03 Feb 2019 11:17:34 -0800"
+        },
+        {
+            "from": "Google Cloud Platform <CloudPlatform-noreply@google.com>",
+            "subject": "Google Cloud Newsletter, Jan 2019 | The next seismic shift in software?",
+            "date": "Tue, 22 Jan 2019 13:34:33 -0800"
+        },
+        {
+            "from": "Google Cloud Platform <CloudPlatform-noreply@google.com>",
+            "subject": "Google Cloud Newsletter, Dec 2018 | Readers’ choice: top stories from 2018",
+            "date": "Thu, 20 Dec 2018 16:24:06 -0800"
+        },
+
+```
+
+_The next seismic shift in software?_
 
 <br> ....
 
